@@ -1,0 +1,45 @@
+schema_version: 1
+catalog_name: randy-agent-skills
+last_verified: "2026-08-14"
+source_policy: canonical-repository
+
+skills:
+  - id: adversarial-audit
+    name: Adversarial Audit
+    category: review-and-falsification
+    visibility: public
+    kind: standalone
+    repository: https://github.com/Randy0609/adversarial-audit
+    skill_path: SKILL.md
+
+  - id: first-principles
+    name: First Principles
+    category: problem-reframing
+    visibility: public
+    kind: standalone
+    repository: https://github.com/Randy0609/first-principles
+    skill_path: SKILL.md
+
+  - id: checking-facts-ecommerce
+    name: Checking Facts for Ecommerce
+    category: evidence-quality
+    visibility: public
+    kind: standalone
+    repository: https://github.com/Randy0609/checking-facts-ecommerce
+    skill_path: SKILL.md
+
+  - id: randy-goal-compiler
+    name: Randy Goal Compiler
+    category: goal-engineering
+    visibility: public
+    kind: standalone
+    repository: https://github.com/Randy0609/randy-goal-compiler
+    skill_path: SKILL.md
+
+  - id: obs-studio
+    name: OBS Studio
+    category: ecommerce-content-tooling
+    visibility: public
+    kind: embedded
+    repository: https://github.com/Randy0609/ai-ecommerce-obs
+    skill_path: obs-studio/SKILL.md
