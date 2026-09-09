@@ -2,9 +2,19 @@
 
 Randy 的公开 Agent Skills 总目录。
 
+## 给伙伴与客户：三个思考 Skill
+
+**[点击进入：事实洁癖、第一性原理、对抗式审查 → 安装到 Codex](START-HERE.md)**
+
+入口包含三个 Skill 的用途、可直接复制给 Codex 的安装话术、安装验收和使用示例。
+
+转发这个链接即可：[三个思考 Skill 安装指南](https://github.com/Randy0609/randy-agent-skills/blob/main/START-HERE.md)。
+
+## 关于本目录
+
 这个仓库负责分类、导航和核验来源，不复制各 Skill 的源码。每个 Skill 的原始仓库及其中的 `SKILL.md` 是唯一来源，避免同一 Skill 在多个仓库出现版本漂移。
 
-最后核验：2026-08-14
+全目录最后核验：2026-08-14。三个思考 Skill 的安装核验单独记录在[安装指南](START-HERE.md)中。
 
 ## Skills
 
