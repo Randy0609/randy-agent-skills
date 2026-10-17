@@ -25,6 +25,7 @@ Randy 的公开 Agent Skills 总目录。
 | 事实质检 | Checking Facts for Ecommerce | 审计电商材料里的数字、证言、资质、承诺和因果归因 | 独立 Skill | [仓库](https://github.com/Randy0609/checking-facts-ecommerce) · [SKILL.md](https://github.com/Randy0609/checking-facts-ecommerce/blob/main/SKILL.md) |
 | 目标工程 | Randy Goal Compiler | 把模糊需求编译成可执行、可验收且不扩权的 Goal Contract | 独立 Skill | [仓库](https://github.com/Randy0609/randy-goal-compiler) · [SKILL.md](https://github.com/Randy0609/randy-goal-compiler/blob/main/SKILL.md) |
 | 电商内容工具 | OBS Studio | 规划和操作 AI 电商直播、录制、Browser Source 与 OBS 自动化 | 项目内嵌 Skill | [项目](https://github.com/Randy0609/ai-ecommerce-obs) · [SKILL.md](https://github.com/Randy0609/ai-ecommerce-obs/blob/main/obs-studio/SKILL.md) |
+| AI 产业研究 | AI Industry Signal Editor | 按证据评估产业案例、新闻与战略判断，分别记录正式信号、案例研究与内部观察 | 独立 Skill | [仓库](https://github.com/Randy0609/industry-signal-editor) · [SKILL.md（评审版）](https://github.com/Randy0609/industry-signal-editor/blob/28dba6d8f989661ede153a7a55e0ee57922f5a18/SKILL.md) |
 
 机器可读目录见 [`catalog.yaml`](catalog.yaml)。
 

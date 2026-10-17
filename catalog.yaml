@@ -43,3 +43,11 @@ skills:
     kind: embedded
     repository: https://github.com/Randy0609/ai-ecommerce-obs
     skill_path: obs-studio/SKILL.md
+
+  - id: industry-signal-editor
+    name: AI Industry Signal Editor
+    category: industry-intelligence
+    visibility: public
+    kind: standalone
+    repository: https://github.com/Randy0609/industry-signal-editor
+    skill_path: SKILL.md
